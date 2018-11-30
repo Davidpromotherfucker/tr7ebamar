@@ -8,7 +8,7 @@ if(Amaar) {
 setTimeout(() => Amaar.send('**Wélcome To Cálin.**'), 4500)
 }
 });
-Amar.login("NTA1ODExMTM0NTI4MzU2MzUy.DtBgAw.clRxh0THJ6E3B6YyMWfCZQmtZLk");
+Amar.login("توكنيييي");
 
 
 Partly = new Discord.Client({sisableEveryone: true})
